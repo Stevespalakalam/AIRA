@@ -1,0 +1,7 @@
+{
+  "name": "AI Reading Companion",
+  "description": "An AI-powered reading assistant that allows you to upload a PDF and ask questions about its content using your voice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
